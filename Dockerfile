@@ -4,7 +4,7 @@
 # Edit by jiris for calibre
 
 # Pull base image.
-FROM jlesage/baseimage-gui:ubuntu-18.04
+FROM jlesage/baseimage-gui:ubuntu-22.04
 
 #########################################
 ##    REPOSITORIES AND DEPENDENCIES    ##
